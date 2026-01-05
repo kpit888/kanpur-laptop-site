@@ -7,9 +7,9 @@ body {
 }
 
 .header {
-    background: #0a58ca;
+    background: #0066cc;
     color: #fff;
-    padding: 40px 20px;
+    padding: 20px 20px;
     text-align: center;
 }
 
@@ -23,7 +23,7 @@ body {
 }
 
 h2 {
-    color: #0a58ca;
+    color: #0066cc;
     margin-top: 30px;
 }
 
@@ -56,3 +56,4 @@ ul {
         padding: 20px;
     }
 }
+
